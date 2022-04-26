@@ -1,0 +1,6 @@
+Un clúster de Kubernetes es un conjunto de máquinas de nodos que ejecutan aplicaciones en contenedores. 
+Con los clústeres de Kubernetes, podrá programar y ejecutar contenedores en un grupo de máquinas físicas, virtuales, on-premise o en la nube.
+Los clústeres de Kubernetes tienen un estado deseado, que define las aplicaciones o las cargas de trabajo que deben ejecutarse,
+las imágenes que se utilizan, los recursos que deben estar disponibles y demás detalles de configuración.
+Kubernetes gestionará el clúster de forma automática para que coincida con ese estado. Por ejemplo, si implementa una aplicación con el estado
+de "tres", deberían ejecutarse tres réplicas de la aplicación.
